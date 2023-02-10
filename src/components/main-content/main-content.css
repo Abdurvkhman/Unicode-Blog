@@ -1,0 +1,246 @@
+.main-header {
+    display: flex;
+    justify-content: center;
+    height: 90px;
+}
+
+.main-img {
+    background-color: black;
+    padding: 5px 8px;
+}
+
+.main-title {
+    padding-left: 19px;
+    font-family: 'Anton';
+    font-size: 100px;
+    font-weight: 400;
+    margin-top: -32px;
+}
+
+.unicode-link {
+    text-decoration: none;
+    color: black;
+}
+
+.dnk {
+    display: flex;
+    justify-content: center;
+}
+
+.main-nav {
+    padding-top: 53px;
+    list-style-type: none;
+    display: flex;
+    padding-right: 250px;
+    justify-content: space-between;
+}
+
+.main-nav:nth-child(1) {
+    margin-left: 350px;
+}
+
+.main-nav:nth-child(2) {
+    margin-left: 220px;
+}
+.main-nav:nth-child(3) {
+    margin-left: 230px;
+}
+
+.main-link {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    display: flex;
+}
+
+.main-line {
+    height: 2px;
+    background-color: black;
+    margin-top: 32px;
+}
+
+.posts-image-block {
+    padding: 37px 0 0 100px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 1300px;
+    height: 701px;
+    position: relative;
+}
+
+#id_63e1e4d6ee8c9fe0ac47d742 {
+    width: 700px;
+    height: 662px;
+    margin-right: 16px;
+    border-radius: 15px;
+}
+
+#id_63e1e5a3ee8c9fe0ac47d748 {
+    width: 484px;
+    height: 323px;
+    border-radius: 15px;
+}
+
+#id_63e1e5ccee8c9fe0ac47d74a {
+    width: 484px;
+    height: 323px;
+    margin-top: 10px;
+    border-radius: 15px;
+}
+
+#id63e1e4d6ee8c9fe0ac47d742 {
+    position: absolute;
+    left: 154px;
+    bottom: 102px;
+    font-family: 'Open Sans';
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 48px;
+    width: 500px;
+}
+
+#id63e1e5a3ee8c9fe0ac47d748 {
+    position: absolute;
+    right: -54px;
+    top: 209px;
+    font-family: 'Open Sans';
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 48px;
+    width: 500px;
+}
+
+#id63e1e5ccee8c9fe0ac47d74a {
+    font-family: 'Open Sans';
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 48px;
+    width: 400px;
+    position: absolute;
+    bottom: 100px;
+    right: 50px;
+}
+
+#id__63e1e5ccee8c9fe0ac47d74a {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 24px;
+    width: 500px;
+    position: absolute;
+    right: -54px;
+    bottom: 35px;
+}
+
+#id__63e1e5a3ee8c9fe0ac47d748 {
+    width: 410px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    position: absolute;
+    top: 265px;
+    right: 33px;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 24px;
+}
+
+#id__63e1e4d6ee8c9fe0ac47d742 {
+    width: 400px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    position: absolute;
+    bottom: 50px;
+    left: 154px;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.posts-h2-title {
+    text-align: center;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 68px;
+    padding-top: 32px;
+}
+
+.posts-second-image-block-first-img-block img {
+    width: 550px;
+    height: 367px;
+}
+
+.posts-second-block-first-title {
+    font-family: 'Open Sans';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 54px;
+    padding-top: 14px;
+}
+
+.posts-second-image-block {
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.posts-second-image-block-first-img-block span {
+    display: inline-block;
+    width: 550px;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: justify;
+}
+
+.read-more {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 34px;
+    color: #3300FF;
+    cursor: pointer;
+}
+
+.posts-second-block img {
+    width: 550px;
+    height: 367px;
+}
+
+.posts-second-block {
+    padding-left: 80px;
+}
+
+.posts-second-image-block {
+    display: flex;
+}
+
+.posts-second-block-second-title {
+    font-family: 'Open Sans';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 54px;
+    padding-top: 14px;
+}
+
+.posts-second-block span {
+    display: inline-block;
+    width: 550px;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: justify;
+}
